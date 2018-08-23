@@ -1,0 +1,26 @@
+.size{
+	width:100%;
+}
+
+.regbtn{
+	width:25%;
+	margin-left:350px;
+	margin-top:20px;
+}
+
+.regtxt{
+	margin-left:400px;
+	margin-top:20px;
+	margin-bottom:50px;
+}
+
+.marTop{
+	margin-top:40px;
+}
+
+
+/*card Example*/
+.my-flex-card > div > div.card {
+    height: calc(100% - 15px);
+    margin-bottom: 15px;
+}
